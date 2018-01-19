@@ -1,4 +1,4 @@
-# Kaggle's Bike Shari
+# Kaggle's Bike Sharing Demand
 Solving [Kaggle](https://www.kaggle.com/)'s ['Bike Sharing Demand' competition](https://www.kaggle.com/c/bike-sharing-demand) as a final project for [Naya college](http://www.naya-college.co.il/)'s [Data Science Professional course](http://www.naya-college.co.il/courses/data-scientist-professional/) instructed by Amit Rappel.
 
 # Summary

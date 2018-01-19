@@ -1,6 +1,5 @@
 # Kaggle's Bike Sharing Demand
 Solving [Kaggle](https://www.kaggle.com/)'s ['Bike Sharing Demand' competition](https://www.kaggle.com/c/bike-sharing-demand) as a final project
-
 for [Naya college](http://www.naya-college.co.il/)'s [Data Science Professional course](http://www.naya-college.co.il/courses/data-scientist-professional/) instructed by Amit Rappel :+1:.
 
 # Summary
@@ -16,8 +15,8 @@ for [Naya college](http://www.naya-college.co.il/)'s [Data Science Professional 
   - Showing average temperatures by season
   - Showing registered vs. casual users count by hour of the day across seasons
   - Showing registered vs. casual rentals by weather
-* Histogram the data and different targets
-* Correlation analysis of the weather features
+* Histograming the data and different targets
+* Creating correlation analysis of the weather features
 
 ## 2. Feature Engineering / Data Manipulation
 * Removing outliers from the weather features
@@ -25,7 +24,7 @@ for [Naya college](http://www.naya-college.co.il/)'s [Data Science Professional 
 * Engineering new features from the Datetime column: isweekend, peak_hour, afternoon
 * Engineering a new feature from the weather column: good_weather
 * Scaling of 3 weather columns using StandardScaler
-* Apply log(x+1) on the target columns - registered & casual counts
+* Applying log(x+1) on the target columns - registered & casual counts
 
 ## 3. Execution
 * Creating 2 different models for registered and casual customers

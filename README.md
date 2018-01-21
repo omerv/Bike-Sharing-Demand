@@ -2,6 +2,7 @@
 Solving [Kaggle](https://www.kaggle.com/)'s ['Bike Sharing Demand' competition](https://www.kaggle.com/c/bike-sharing-demand) as a final project for<BR>
 [Naya college](http://www.naya-college.co.il/)'s [Data Science Professional course](http://www.naya-college.co.il/courses/data-scientist-professional/) instructed by Amit Rappel :+1:.
 
+Project group members: Omer Vinik , Yechiel Hickry
 # Summary
 
 ## 1. Data Exploration
